@@ -1,0 +1,18 @@
+#helloTitle{
+  text-align: center;
+  color: blue;
+}
+
+.biggerText{
+  font-size: 150%
+}
+
+<<<<<<< HEAD
+.greyBG{
+  background-color: #666666;
+}
+=======
+.grayBG {
+  background-color: #666666;
+}
+>>>>>>> c7c788af51bb926a01ae8d86ac5e33ce30034e60
